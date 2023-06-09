@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure / Cloud projects</b>
-  - [Creating a live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/colehbech/Azure-SOC))
+  - [Creating a live SOC / Honeynet in Azure](https://github.com/colehbech/Azure-SOC)
 
 <h2>📺 Popular YouTube Videos</h2>
 
